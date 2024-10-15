@@ -1,0 +1,7 @@
+D:\Kuliah\File\Semester 3\PBO\P2_1_714230058\P2_1_714230058\bin\Debug\P2_1_714230058.exe.config
+D:\Kuliah\File\Semester 3\PBO\P2_1_714230058\P2_1_714230058\bin\Debug\P2_1_714230058.exe
+D:\Kuliah\File\Semester 3\PBO\P2_1_714230058\P2_1_714230058\bin\Debug\P2_1_714230058.pdb
+D:\Kuliah\File\Semester 3\PBO\P2_1_714230058\P2_1_714230058\obj\Debug\P2_1_714230058.csproj.AssemblyReference.cache
+D:\Kuliah\File\Semester 3\PBO\P2_1_714230058\P2_1_714230058\obj\Debug\P2_1_714230058.csproj.CoreCompileInputs.cache
+D:\Kuliah\File\Semester 3\PBO\P2_1_714230058\P2_1_714230058\obj\Debug\P2_1_714230058.exe
+D:\Kuliah\File\Semester 3\PBO\P2_1_714230058\P2_1_714230058\obj\Debug\P2_1_714230058.pdb
