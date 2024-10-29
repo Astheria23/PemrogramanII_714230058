@@ -1,0 +1,7 @@
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Praktikum\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Praktikum\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Praktikum\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Praktikum\ConsoleApp1\ConsoleApp1\obj\Debug\P4_1_714230058.csproj.AssemblyReference.cache
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Praktikum\ConsoleApp1\ConsoleApp1\obj\Debug\P4_1_714230058.csproj.CoreCompileInputs.cache
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Praktikum\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Praktikum\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,35 @@
+Nama	: Muhammad Okta Toriq Gunawan
+NPM	: 714230058
+Prodi 	: D IV Teknik Informatika B
+
+PRAKTIKUM PBO P-04
+
+=== Bagian I ===
+---------------------
+
+No. 14
+	Pesan error yang keluar adalah "Product_714230058.myType' is inaccessible due to its protection level" yang Dikarenakan deklarasi String myType di class Product_714230058 itu bersifat Protected, yang artinya hanya bisa diakses oleh class nya itu sendiri.
+
+No. 19
+	Code bisa di run tetapi tidak ada output yang keluar. Metode yang digunakan disini adalah encapsulation dimana variable myType dan myTitle bersifat private yang artinya kita hanya bisa di akses dengan melewati property MyType. Tetapi kita tidak menginputkan nilai di Ketika memanggil myProduct.MyType jadi masih setter masih bernilai null sehingga Ketika dipanggil masih kosong, dan tidak memberi output apapun.
+
+No. 24
+	Melanjutkan dari no 19 disini myProduct.MyType sudah diberi string "DVD" jadi Ketika MyType dipanggil setter sudah mengambil nilai value dari "DVD". Maka output yang keluar adalah DVD
+
+
+=== Bagian II ===
+----------------------
+No. 8
+	Tipe dan judul buku tidak muncul karena class Book_714230058 mengimplementasikan property abstract dari Product_714230058. Book_714230058 telah menyediakan nilai untuk property tsb, sesuai dengan persyaratan Product_714230058.
+
+No.12
+	sekarang muncul pada output karena Book_714230058 telah mengimplementasikan properti dari kelas abstrak Product_714230058, sehingga ProductTest_714230058 dapat mengakses dan menampilkannya.
+
+No19
+	product2 merepresentasikan tipe objek yang berbeda, misalnya DVD_714230058, yang memiliki karakteristik berbeda dari product1. Ini menunjukkan konsep polymorphism (polimorfisme).Di mana beberapa tipe objek mewarisi dari induk yang sama tetapi di eksekusi dengan implementasi yang berbeda.
+	
+	
+
+
+
+ 
