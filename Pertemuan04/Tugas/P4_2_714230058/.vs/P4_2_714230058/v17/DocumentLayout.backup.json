@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|d:\\my files\\productivity\\kuliah\\pbo\\pemrogramanii_714230058\\pertemuan04\\tugas\\p4_2_714230058\\p4_2_714230058\\bp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|solutionrelative:p4_2_714230058\\bp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|d:\\my files\\productivity\\kuliah\\pbo\\pemrogramanii_714230058\\pertemuan04\\tugas\\p4_2_714230058\\p4_2_714230058\\kulkas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|solutionrelative:p4_2_714230058\\kulkas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|d:\\my files\\productivity\\kuliah\\pbo\\pemrogramanii_714230058\\pertemuan04\\tugas\\p4_2_714230058\\p4_2_714230058\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|solutionrelative:p4_2_714230058\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|d:\\my files\\productivity\\kuliah\\pbo\\pemrogramanii_714230058\\pertemuan04\\tugas\\p4_2_714230058\\p4_2_714230058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|solutionrelative:p4_2_714230058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|d:\\my files\\productivity\\kuliah\\pbo\\pemrogramanii_714230058\\pertemuan04\\tugas\\p4_2_714230058\\p4_2_714230058\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781326CB-A989-466E-9BDF-147FE563FC33}|P4_2_714230058\\P4_2_714230058.csproj|solutionrelative:p4_2_714230058\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Television.cs",
+              "DocumentMoniker": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\Television.cs",
+              "RelativeDocumentMoniker": "P4_2_714230058\\Television.cs",
+              "ToolTip": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\Television.cs",
+              "RelativeToolTip": "P4_2_714230058\\Television.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:57:22.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirConditioner.cs",
+              "DocumentMoniker": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\AirConditioner.cs",
+              "RelativeDocumentMoniker": "P4_2_714230058\\AirConditioner.cs",
+              "ToolTip": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\AirConditioner.cs",
+              "RelativeToolTip": "P4_2_714230058\\AirConditioner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:52:37.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kulkas.cs",
+              "DocumentMoniker": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\Kulkas.cs",
+              "RelativeDocumentMoniker": "P4_2_714230058\\Kulkas.cs",
+              "ToolTip": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\Kulkas.cs",
+              "RelativeToolTip": "P4_2_714230058\\Kulkas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:35:56.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bp.cs",
+              "DocumentMoniker": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\Bp.cs",
+              "RelativeDocumentMoniker": "P4_2_714230058\\Bp.cs",
+              "ToolTip": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\Bp.cs",
+              "RelativeToolTip": "P4_2_714230058\\Bp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:29:46.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\Program.cs",
+              "RelativeDocumentMoniker": "P4_2_714230058\\Program.cs",
+              "ToolTip": "D:\\My Files\\Productivity\\Kuliah\\PBO\\PemrogramanII_714230058\\Pertemuan04\\Tugas\\P4_2_714230058\\P4_2_714230058\\Program.cs",
+              "RelativeToolTip": "P4_2_714230058\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:21:21.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

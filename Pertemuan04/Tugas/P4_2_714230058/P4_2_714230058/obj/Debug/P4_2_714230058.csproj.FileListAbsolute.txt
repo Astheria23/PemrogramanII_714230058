@@ -1,0 +1,7 @@
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Tugas\P4_2_714230058\P4_2_714230058\bin\Debug\P4_2_714230058.exe.config
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Tugas\P4_2_714230058\P4_2_714230058\bin\Debug\P4_2_714230058.exe
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Tugas\P4_2_714230058\P4_2_714230058\bin\Debug\P4_2_714230058.pdb
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Tugas\P4_2_714230058\P4_2_714230058\obj\Debug\P4_2_714230058.csproj.AssemblyReference.cache
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Tugas\P4_2_714230058\P4_2_714230058\obj\Debug\P4_2_714230058.csproj.CoreCompileInputs.cache
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Tugas\P4_2_714230058\P4_2_714230058\obj\Debug\P4_2_714230058.exe
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan04\Tugas\P4_2_714230058\P4_2_714230058\obj\Debug\P4_2_714230058.pdb

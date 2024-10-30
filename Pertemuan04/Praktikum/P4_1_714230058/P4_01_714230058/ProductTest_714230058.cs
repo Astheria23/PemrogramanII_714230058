@@ -16,6 +16,9 @@ namespace P4_01_714230058
 
             product1.DisplayInfo();
             product2.DisplayInfo();
+
+            Console.Write("Please press anykey....");
+            string p = Console.ReadLine();
         }
     }
 }
