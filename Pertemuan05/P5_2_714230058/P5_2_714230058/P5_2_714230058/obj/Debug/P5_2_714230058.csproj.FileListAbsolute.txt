@@ -1,0 +1,11 @@
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\bin\Debug\P5_2_714230058.exe.config
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\bin\Debug\P5_2_714230058.exe
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\bin\Debug\P5_2_714230058.pdb
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\obj\Debug\P5_2_714230058.csproj.AssemblyReference.cache
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\obj\Debug\P5_2_714230058.ChildForm.resources
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\obj\Debug\P5_2_714230058.ParentForm.resources
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\obj\Debug\P5_2_714230058.Properties.Resources.resources
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\obj\Debug\P5_2_714230058.csproj.GenerateResource.cache
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\obj\Debug\P5_2_714230058.csproj.CoreCompileInputs.cache
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\obj\Debug\P5_2_714230058.exe
+D:\Kuliah\File\Semester 3\PBO\Repo\Pertemuan05\P5_2_714230058\P5_2_714230058\P5_2_714230058\obj\Debug\P5_2_714230058.pdb

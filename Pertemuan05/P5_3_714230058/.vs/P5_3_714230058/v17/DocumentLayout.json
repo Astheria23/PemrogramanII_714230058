@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C213E-C151-4B4C-A15B-C254A67FAD86}|P5_3_714230058\\P5_3_714230058.csproj|d:\\kuliah\\file\\semester 3\\pbo\\repo\\pertemuan05\\p5_3_714230058\\p5_3_714230058\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C213E-C151-4B4C-A15B-C254A67FAD86}|P5_3_714230058\\P5_3_714230058.csproj|solutionrelative:p5_3_714230058\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C213E-C151-4B4C-A15B-C254A67FAD86}|P5_3_714230058\\P5_3_714230058.csproj|D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\p5_3_714230058\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B42C213E-C151-4B4C-A15B-C254A67FAD86}|P5_3_714230058\\P5_3_714230058.csproj|solutionrelative:p5_3_714230058\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C213E-C151-4B4C-A15B-C254A67FAD86}|P5_3_714230058\\P5_3_714230058.csproj|D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\p5_3_714230058\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C213E-C151-4B4C-A15B-C254A67FAD86}|P5_3_714230058\\P5_3_714230058.csproj|solutionrelative:p5_3_714230058\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\P5_3_714230058\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_3_714230058\\Form1.cs",
+              "ToolTip": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\P5_3_714230058\\Form1.cs",
+              "RelativeToolTip": "P5_3_714230058\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:01:05.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\P5_3_714230058\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P5_3_714230058\\Form1.Designer.cs",
+              "ToolTip": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\P5_3_714230058\\Form1.Designer.cs",
+              "RelativeToolTip": "P5_3_714230058\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwHoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:03:43.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\P5_3_714230058\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_3_714230058\\Form1.cs",
+              "ToolTip": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_3_714230058\\P5_3_714230058\\Form1.cs [Design]",
+              "RelativeToolTip": "P5_3_714230058\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:58:23.18Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

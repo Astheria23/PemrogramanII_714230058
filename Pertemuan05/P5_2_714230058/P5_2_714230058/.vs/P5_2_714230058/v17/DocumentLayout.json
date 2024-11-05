@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6560AE04-1E4D-4C18-876B-4434ACEA82AE}|P5_2_714230058\\P5_2_714230058.csproj|D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\p5_2_714230058\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6560AE04-1E4D-4C18-876B-4434ACEA82AE}|P5_2_714230058\\P5_2_714230058.csproj|solutionrelative:p5_2_714230058\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6560AE04-1E4D-4C18-876B-4434ACEA82AE}|P5_2_714230058\\P5_2_714230058.csproj|D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\p5_2_714230058\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6560AE04-1E4D-4C18-876B-4434ACEA82AE}|P5_2_714230058\\P5_2_714230058.csproj|solutionrelative:p5_2_714230058\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6560AE04-1E4D-4C18-876B-4434ACEA82AE}|P5_2_714230058\\P5_2_714230058.csproj|d:\\kuliah\\file\\semester 3\\pbo\\repo\\pertemuan05\\p5_2_714230058\\p5_2_714230058\\p5_2_714230058\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6560AE04-1E4D-4C18-876B-4434ACEA82AE}|P5_2_714230058\\P5_2_714230058.csproj|solutionrelative:p5_2_714230058\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6560AE04-1E4D-4C18-876B-4434ACEA82AE}|P5_2_714230058\\P5_2_714230058.csproj|D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\p5_2_714230058\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6560AE04-1E4D-4C18-876B-4434ACEA82AE}|P5_2_714230058\\P5_2_714230058.csproj|solutionrelative:p5_2_714230058\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\P5_2_714230058\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230058\\ParentForm.cs",
+              "ToolTip": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\P5_2_714230058\\ParentForm.cs",
+              "RelativeToolTip": "P5_2_714230058\\ParentForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:12:50.512Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\P5_2_714230058\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230058\\ParentForm.cs",
+              "ToolTip": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\P5_2_714230058\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714230058\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:09:37.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\P5_2_714230058\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230058\\ChildForm.cs",
+              "ToolTip": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\P5_2_714230058\\ChildForm.cs",
+              "RelativeToolTip": "P5_2_714230058\\ChildForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:21:45.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\P5_2_714230058\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714230058\\ChildForm.cs",
+              "ToolTip": "D:\\Kuliah\\File\\Semester 3\\PBO\\Repo\\Pertemuan05\\P5_2_714230058\\P5_2_714230058\\P5_2_714230058\\ChildForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714230058\\ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:21:08.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
