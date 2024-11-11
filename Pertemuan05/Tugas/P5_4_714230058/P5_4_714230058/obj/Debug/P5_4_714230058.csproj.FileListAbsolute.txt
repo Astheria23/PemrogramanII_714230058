@@ -1,0 +1,10 @@
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\bin\Debug\P5_4_714230058.exe.config
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\bin\Debug\P5_4_714230058.exe
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\bin\Debug\P5_4_714230058.pdb
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\obj\Debug\P5_4_714230058.csproj.AssemblyReference.cache
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\obj\Debug\P5_4_714230058.Form1.resources
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\obj\Debug\P5_4_714230058.Properties.Resources.resources
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\obj\Debug\P5_4_714230058.csproj.GenerateResource.cache
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\obj\Debug\P5_4_714230058.csproj.CoreCompileInputs.cache
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\obj\Debug\P5_4_714230058.exe
+D:\My Files\Productivity\Kuliah\PBO\PemrogramanII_714230058\Pertemuan05\Tugas\P5_4_714230058\P5_4_714230058\obj\Debug\P5_4_714230058.pdb
