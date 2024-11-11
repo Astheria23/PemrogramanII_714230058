@@ -43,33 +43,33 @@ namespace P5_4_714230058
                 return;
             }
 
-            List<string> selectedJadwal = new List<string>();
+            List<string> selectedKelas = new List<string>();
 
-            if (cbBasket.Checked) selectedJadwal.Add("Basket");
-            if (cbBuluTangkis.Checked) selectedJadwal.Add("Bulu Tangkis");
-            if (cbPanahan.Checked) selectedJadwal.Add("Panahan");
-            if (cbRenang.Checked) selectedJadwal.Add("Renang");
-            if (cbSepakBola.Checked) selectedJadwal.Add("Sepak Bola");
-            if (cbTenis.Checked) selectedJadwal.Add("Tenis");
-            if (cbVoli.Checked) selectedJadwal.Add("Voli");
-            if (cbYoga.Checked) selectedJadwal.Add("Yoga");
-            string jadwal = string.Join(", ", selectedJadwal);
+            if (cbBasket.Checked) selectedKelas.Add("Basket");
+            if (cbBuluTangkis.Checked) selectedKelas.Add("Bulu Tangkis");
+            if (cbPanahan.Checked) selectedKelas.Add("Panahan");
+            if (cbRenang.Checked) selectedKelas.Add("Renang");
+            if (cbSepakBola.Checked) selectedKelas.Add("Sepak Bola");
+            if (cbTenis.Checked) selectedKelas.Add("Tenis");
+            if (cbVoli.Checked) selectedKelas.Add("Voli");
+            if (cbYoga.Checked) selectedKelas.Add("Yoga");
+            string kelas = string.Join(", ", selectedKelas);
 
             if (rbSeninRabu.Checked == true)
             {
-                kelas = "Senin s/d Rabu, 14:00 - 16:00";
+                jadwal = "Senin s/d Rabu, 14:00 - 16:00";
             }
             else if (rbSelasaKamis.Checked == true)
             {
-                kelas = "Selasa s/d Kamis, 14:00 - 16:00";
+                jadwal = "Selasa s/d Kamis, 14:00 - 16:00";
             }
             else if (rbSabtuMinggu.Checked == true)
             {
-                kelas = "Sabtu s/d Minggu, 09:00 - 11:00";
+                jadwal = "Sabtu s/d Minggu, 09:00 - 11:00";
             }
             else if (rbMinggu.Checked == true)
             {
-                kelas = "Minggu, 13:00 - 20:00";
+                jadwal = "Minggu, 13:00 - 20:00";
             }
             else {
             }
