@@ -1,0 +1,10 @@
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\obj\Debug\P7_1_714230058.csproj.AssemblyReference.cache
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\obj\Debug\P7_1_714230058.cb.resources
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\obj\Debug\P7_1_714230058.Properties.Resources.resources
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\obj\Debug\P7_1_714230058.csproj.GenerateResource.cache
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\obj\Debug\P7_1_714230058.csproj.CoreCompileInputs.cache
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\bin\Debug\P7_1_714230058.exe.config
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\bin\Debug\P7_1_714230058.exe
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\bin\Debug\P7_1_714230058.pdb
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\obj\Debug\P7_1_714230058.exe
+C:\Users\Octa\source\repos\P7_1_714230058\P7_1_714230058\obj\Debug\P7_1_714230058.pdb
